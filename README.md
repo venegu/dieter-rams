@@ -17,6 +17,9 @@ To view this project you do the following:
     
 Or you can view it live [here](https://venegu.github.io/lisa-maldonado-dieter-rams/).
 
+## Note
+This website is not entirely responsive, but I plan to make it responsive in the [future](https://github.com/venegu/lisa-maldonado-dieter-rams/issues/1) :panda_face:. 
+
 ## Credits
   - Dieter Rams
   - Google Fonts
