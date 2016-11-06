@@ -14,6 +14,8 @@ To view this project you do the following:
   3. Open the `index.html`:
 
     `` open index.html``
+    
+Or you can view it live [here](https://venegu.github.io/lisa-maldonado-dieter-rams/).
 
 ## Credits
   - Dieter Rams
