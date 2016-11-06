@@ -44,3 +44,18 @@ nav {
 li {
     margin: 5px 10px;
 }
+
+/**** LINKS ****/
+a:link {
+    color: #08A6FF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #08A6FF;
+}
+
+a:hover {
+    background-color: #2B08E8;
+    color: white;
+}
